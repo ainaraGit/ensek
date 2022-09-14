@@ -1,5 +1,6 @@
 export class EnergyBuyPage {
 
+    
     navigateTo(url){ 
         return cy.visit(url);
     }
