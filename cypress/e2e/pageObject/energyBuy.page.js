@@ -18,7 +18,6 @@ export class EnergyBuyPage {
             .clear()
             .type(units)     
     }
-
    buy(energyType)
     {
         const column = {
