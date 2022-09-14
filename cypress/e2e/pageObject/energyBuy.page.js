@@ -1,6 +1,5 @@
 export class EnergyBuyPage {
-
-    
+ 
     navigateTo(url){ 
         return cy.visit(url);
     }
@@ -30,7 +29,6 @@ export class EnergyBuyPage {
         return this.getEnergyType(column,4)
             .click()     
     }
-
 
     resetButton()
     {
