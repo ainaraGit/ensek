@@ -156,6 +156,4 @@ describe('Corner case scenarios for Buy Energy', () => {
       .contains(notInt32Error);
     
   })
-
-  
 })
