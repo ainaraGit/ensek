@@ -102,5 +102,4 @@ describe('Buy energy tests', () => {
     energyBuyPage.quantityAvailable('Oil')
       .contains( remainingOil);
   })
-
 })
