@@ -15,5 +15,4 @@ export class SaleConfirmedPage {
     error() {
         return cy.get('h3')
     }
-
 }
