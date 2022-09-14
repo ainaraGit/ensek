@@ -17,7 +17,6 @@ describe('Corner case scenarios that should fail', () => {
     cy.visit(url);
     cy.url()
       .should('equal', url);
-
     energyBuyPage.resetButton().click();
   })
 
