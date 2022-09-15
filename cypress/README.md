@@ -1,7 +1,7 @@
 
 ==============
 INTRO
-==========================
+
 
 I have decided to use Cypress to do this exercise. I have had some experience with it a few years ago when choosing the technology for my current project. I have tested it with chrome on my current MAC.
 In my day to day I develop with WebdriverIO with Selenium (and typescript). 
@@ -12,7 +12,7 @@ The code can be found under : ensek/cypress/e2e/
 
 ==============
 PAGE OBJECT MODEL
-==========================
+
 
 I have implemented the tests for the login page and other pages. I have tried implementing the Page Object Model method, having:
 
@@ -22,7 +22,7 @@ I have implemented the tests for the login page and other pages. I have tried im
 
 ==============
 SELENIUM – GHERKIN
-==========================
+
 
 If I was running this in WebdriverIO with Cucumber, then there would be an extra folder called "feature". Here is where the Gherkin files would exist, i.e
 
